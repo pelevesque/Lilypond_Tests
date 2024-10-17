@@ -1,8 +1,5 @@
 \version "2.24.4"
 
-% --------------------------------------------------------------------
-% Sprechstimme
-
 speakOn = {
     \override Stem.stencil = #(lambda (grob)
         (let*

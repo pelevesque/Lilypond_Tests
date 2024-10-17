@@ -2,8 +2,6 @@
 
 \include "sprechstimme.ly"
 
-% --------------------------------------------------------------------
-
 \relative c''' {
     \autoBeamOff
     c b a8 aes g4-. |
